@@ -1,1 +1,1 @@
-### data_structure and algorithms implementation with python
+### data_structures and algorithms implementation with python
